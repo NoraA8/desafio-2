@@ -1,0 +1,105 @@
+/* shift 4 $ */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+header {
+  background-image: url("https://cdn.shopify.com/s/files/1/0563/8350/4579/files/IMG_2505_1950x.jpg?v=1657835208");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 720px;
+  box-sizing: border-box;
+  background-attachment: fixed;
+  position: relative;
+  overflow: hidden;
+}
+.primero {
+  margin: auto;
+  padding-top: 200px;
+  padding-left: 100px;
+  color: whitesmoke;
+  font-family: "Megrim", cursive;
+  font-size: 150px;
+}
+.segundo {
+  padding-left: 100px;
+  color: whitesmoke;
+  font-family: "Megrim", cursive;
+  font-size: 60px;
+  margin: auto;
+}
+h1 {
+  padding-top: 55px;
+  padding-bottom: 55px;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Kanit", sans-serif;
+}
+h2 {
+  font-size: 40px;
+  font-family: "Kanit", sans-serif;
+  letter-spacing: 5px;
+  margin-bottom: 17px;
+}
+h3 {
+  text-align: center;
+  font-family: "Kanit", sans-serif;
+  font-size: 20px;
+  margin: 17px;
+}
+p {
+  text-align: center;
+  font-family: "Kanit", sans-serif;
+}
+.columna {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding-top: 55px;
+  padding-bottom: 55px;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin-left: 74px;
+  margin-right: 74px;
+}
+.item-columna {
+  padding-left: 30px;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.card {
+  width: 60%;
+}
+.tienda {
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+.titulo {
+  text-align: center;
+}
+.item-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Kanit", sans-serif;
+  font-size: 40px;
+  justify-content: center;
+  padding-top: 55px;
+  padding-bottom: 55px;
+}
+.division {
+  justify-content: space-evenly;
+  box-sizing: border-box;
+}
+footer {
+  color: whitesmoke;
+  background-color: black;
+  text-align: center;
+  font-family: "Kanit", sans-serif;
+  font-size: 30px;
+}
+.container {
+  display: flex;
+}
